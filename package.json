@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
+  "homepage": "https://gitname.github.io/personal_profile",
   "homepage": ".",
   "version": "0.1.0",
   "scripts": {
