@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "Personal Portfolio",
       "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "url": "https://github.com/sanijae/personal_profile",
+      "description": "🔥 ",
       "isFork": false,
       "languages": [
         {
@@ -27,25 +27,11 @@
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Weather Application",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://react-weather-app-bxx8.onrender.com/",
+      "description": "🔥 The full-stack weather application provides real-time weather information and forecasts, integrating both front-end and back-end technologies. Users can access current weather conditions, view forecasts, and receive alerts, all within an intuitive user interface designed for seamless navigation and interaction.",
       "isFork": false,
       "languages": [
         {
@@ -57,21 +43,160 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
         }
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Task Manager Application",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/sanijae/react_task_manager",
+      "description": "🔥 The full-stack Task Manager application enables users to organize, prioritize, and track tasks efficiently, utilizing a combination of front-end and back-end technologies. With features like task categorization, due date reminders, and user authentication, it offers a comprehensive solution for managing tasks effectively in both personal and professional settings.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "E-commerce Application",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/sanijae/react_commerce",
+      "description": "🔥 The full-stack Ecommerce application facilitates seamless online shopping experiences, integrating front-end and back-end technologies to support browsing, purchasing, and payment processing. With features such as product catalog management, user authentication, and secure checkout, it provides a robust platform for businesses to showcase and sell their products to customers worldwide.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "360 Property NG",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/sanijae/360PropertyNg",
+      "description": "🔥 The full-stack 360 Property application offers a comprehensive solution for property management, combining front-end and back-end technologies to streamline listing, viewing, and transaction processes. With features like interactive property maps, virtual tours, and secure payment options, it provides users with a seamless experience for renting, buying, or selling properties.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Dataware Analytics",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/sanijae/Dataware-Analytics",
+      "description": "🔥 The Dataware Analytics website application is a comprehensive platform that provides users with powerful tools for data analysis, visualization, and reporting. With intuitive interfaces and robust functionality, it empowers businesses and individuals to derive actionable insights from their data, driving informed decision-making and enhancing overall performance.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Yaros International Website",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://sanijae.github.io/Front_line/",
+      "description": "🔥 The full-stack Yaros Printing services application offers a comprehensive platform for customers to order custom prints, track orders, and manage payments seamlessly. With features like customizable print options, real-time order status updates, and secure payment processing, it provides businesses and individuals with a convenient solution for all their printing needs.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Breast Cancer Detection",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/sanijae/Breast_cancer_prediction",
+      "description": "📦 The Breast Cancer Detection application employs machine learning algorithms to analyze medical imaging data and accurately detect potential signs of breast cancer. By leveraging advanced image processing techniques and predictive modeling, it offers early detection capabilities, enhancing patient outcomes and facilitating timely medical interventions.",
       "isFork": false,
       "languages": [
         {
@@ -81,36 +206,33 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "id": "R_kgDOG_vYHA",
+      "name": "Customer Segmentation",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/sanijae/Mall_Customer-segmentation",
+      "description": "📦  The Customer Segmentation application utilizes machine learning algorithms to analyze customer data and classify individuals into distinct groups based on their characteristics and behaviors. By identifying meaningful segments, businesses can tailor marketing strategies, personalize offerings, and optimize customer engagement to enhance overall satisfaction and drive growth.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "R_kgDOG_vYHA",
+      "name": "Card Fraud Detection",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/sanijae/Card_Fraud_detection",
+      "description": "📦 The Card Fraud Detection application employs advanced machine learning algorithms to analyze transaction patterns and detect potentially fraudulent activities in real-time. By continuously monitoring card usage and identifying suspicious behavior, it provides proactive measures to mitigate financial losses and protect both cardholders and financial institutions from fraudulent transactions.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     }
+  
   ]
 }

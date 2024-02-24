@@ -14,7 +14,7 @@ class Certifications extends Component {
             <h1 className="certs-header" style={{ color: theme.text }}>
               Certifications
             </h1>
-          </Fade>
+          </Fade> 
         </div>
         <div className="certs-body-div">
           {certifications.certifications.map((cert) => {

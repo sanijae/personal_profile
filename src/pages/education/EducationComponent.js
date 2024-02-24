@@ -23,7 +23,7 @@ class Education extends Component {
               <div className="heading-img-div">
                 {/* <img
 									src={require("../../assests/images/education.svg")}
-									alt=""
+									alt="" 
 								/> */}
                 <EducationImg theme={theme} />
               </div>
@@ -40,7 +40,7 @@ class Education extends Component {
           </Fade>
           <Educations theme={this.props.theme} />
           {certifications.certifications.length > 0 ? (
-            <Certifications theme={this.props.theme} />
+            <Certifications theme={this.props.theme} /> 
           ) : null}
         </div>
         <Footer theme={this.props.theme} />
@@ -49,5 +49,5 @@ class Education extends Component {
     );
   }
 }
-
+ 
 export default Education;

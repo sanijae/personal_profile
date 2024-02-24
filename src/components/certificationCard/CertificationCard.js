@@ -22,9 +22,9 @@ class CertificationCard extends Component {
               >
                 <img
                   className="logo_img"
-                  src={require(`../../assests/images/${certificate.logo_path}`)}
+                  src={require(`../../assests/logos/${certificate.logo_path}`)}
                   alt={certificate.alt_name}
-                />
+                /> 
               </div>
               <div className="content-details fadeIn-top">
                 <h3 className="content-title" style={{ color: theme.body }}>

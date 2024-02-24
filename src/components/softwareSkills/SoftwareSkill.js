@@ -28,7 +28,7 @@ class SoftwareSkill extends React.Component {
                 >
                   <li className="software-skill-inline" name={logo.skillName}>
                     {logo.fontAwesomeClassname && (
-                      <span
+                      <span 
                         className="iconify"
                         data-icon={logo.fontAwesomeClassname}
                         style={logo.style}

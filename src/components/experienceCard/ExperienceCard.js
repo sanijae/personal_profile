@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './ExperienceCard.css';
 import { Fade } from "react-reveal";
-
+ 
 class ExperienceCard extends Component {
   render() {
     const experience = this.props.experience;
@@ -14,7 +14,7 @@ class ExperienceCard extends Component {
           <div className="experience-card-logo-div">
             <img
               className="experience-card-logo"
-              src={require(`../../assests/images/${experience["logo_path"]}`)}
+              src={require(`../../assests/logos/${experience["logo_path"]}`)}
               alt=""
             />
           </div>

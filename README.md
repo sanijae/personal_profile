@@ -2,8 +2,8 @@
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
 
-<h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
-<h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
+<h1 align="center"> My Personal Master Portfolio 🔥 </h1> 
+<h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio </h3>
 
 <p align="center">
   <a href="http://hits.dwyl.com/ashutosh1919/masterPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg" /></a>
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-:star: Star us on GitHub — it helps!
+:star: Star meß on GitHub — it helps!
 
 # Sections 📚
 
