@@ -763,7 +763,7 @@ const contactPageData = {
   //     "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
   //   link: "https://blogs.ashutoshhathidara.com/",
   //   avatar_image_path: "blogs_image.svg",
-  // },
+  // }, 
   addressSection: {
     title: "Address",
     subtitle:
