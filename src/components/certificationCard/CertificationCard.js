@@ -6,13 +6,13 @@ class CertificationCard extends Component {
   render() {
     const certificate = this.props.certificate;
     const theme = this.props.theme;
+   // { href={certificate.certificate_link}}
     return (
       <Fade bottom duration={2000} distance="20px">
         <div className="cert-card">
           <div className="content">
             <a
-              href={certificate.certificate_link}
-              target="_blank"
+              href="/education"
               rel="noopener noreferrer"
             >
               <div className="content-overlay"></div>
