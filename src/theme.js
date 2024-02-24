@@ -81,7 +81,7 @@ export const blackTheme = {
   jacketColor: "#8d99ae",
   headerColor: "#fca31177",
   splashBg: "#14213d",
-};
+}; 
 
 export const pinkTheme = {
   body: "#FEE9F2",
@@ -182,7 +182,7 @@ export const materialLightTheme = {
 };
 
 export const materialTealTheme = {
-  body: "#ffffff",
+  body: "#fff",
   text: "#05505E",
   expTxtColor: "#000000",
   highlight: "#a1dded",
@@ -195,4 +195,4 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
-export const chosenTheme = blueTheme;
+export const chosenTheme = blackTheme;

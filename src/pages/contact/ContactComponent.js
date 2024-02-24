@@ -18,6 +18,7 @@ const phone1Section = contactPageData.phone1Section;
 const emailSection = contactPageData.emailSection;
 
 class Contact extends Component {
+  // /${ContactData["profile_image_path"]
   render() {
     const theme = this.props.theme;
     return (
@@ -28,7 +29,7 @@ class Contact extends Component {
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
                 <img
-                  src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
+                  src={require(`../../assests/logos/${ContactData["profile_image_path"]}`)}
                   alt=""
                 />
               </div>

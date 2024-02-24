@@ -15,7 +15,7 @@ export default function Contact() {
             <a className="contact-detail" href={"tel:" + contactInfo.number}>
               {contactInfo.number}
             </a>
-            <br />
+            <br /> 
             <br />
             <a
               className="contact-detail-email"
