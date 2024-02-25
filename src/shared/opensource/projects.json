@@ -28,6 +28,84 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Dataware Analytics",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://datawareanalytics.github.io/data/",
+      "description": "🔥 The Dataware Tech Solution website application serves as a centralized platform for accessing cutting-edge data solutions and services. With user-friendly navigation and comprehensive information on data analytics, machine learning, and AI services, it empowers businesses to leverage data effectively for strategic decision-making and growth.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Little Lemon",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://little-lemon-tpc7.onrender.com",
+      "description": "🔥 The Little Lemon website application offers a vibrant online marketplace for purchasing fresh, organic produce and locally sourced goods. With a user-friendly interface and convenient ordering system, customers can easily browse through a variety of products, supporting sustainable farming practices while enjoying healthy, farm-to-table options.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Coin Tracker",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://coin-tracker-ztyd.onrender.com",
+      "description": "🔥 The Coins Tracker website application provides users with real-time updates and comprehensive insights into cryptocurrency market trends. With intuitive tracking features and customizable portfolios, users can monitor their investments and make informed decisions in the volatile world of digital assets.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Weather Application",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": "https://react-weather-app-bxx8.onrender.com/",
