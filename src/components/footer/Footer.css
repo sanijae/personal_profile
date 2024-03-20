@@ -1,5 +1,7 @@
 .footer-text {
   text-align: center;
+  padding-left:10px;
+  padding-right:10px;
   /* color: #868e96; */
   font-weight: bold;
   font-family: "Google Sans Regular";
@@ -7,4 +9,9 @@
 
 .footer-div {
   margin-top: 2rem;
+}
+.footer-row{
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
